@@ -1,0 +1,7 @@
+No third-party Python packages are required for the search algorithm code.
+
+Python standard-library modules used: collections, heapq
+
+Optional, for opening and running the notebooks:
+
+notebook
